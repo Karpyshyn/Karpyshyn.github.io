@@ -302,7 +302,7 @@ section {
 /* --------- 2.1 Header --------- */
 
 #header {
-    height: 71px !important;
+    height: 76px !important;
     overflow: visible;
     z-index: 9999;
     width: 100%;
@@ -1416,7 +1416,7 @@ blockquote {
 
 .client-overlay span {
     position: absolute;
-    top: 48%;
+    top: 8px;
     left: 0;
     width: 100%;
     text-align: center;
